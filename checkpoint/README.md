@@ -1,1 +1,4 @@
-Download model_best.zip in [Releases](https://github.com/wind123mountain/Span_ASTE_exp/releases) and unzip in this folder
+- Download model_best.zip in [Releases](https://github.com/wind123mountain/Span_ASTE_exp/releases) and unzip in this folder
+- model_best/model.pt: weight of model is trained with loss weight p=p'=1
+- model_best/model.pt: weight of model is trained with loss weight p=0.005, p'=0.01
+- model_best/model.pt: weight of model is trained with loss weight p=0.001, p'=0.01
